@@ -22,7 +22,7 @@ The repository is made up of 3 seperate code bases each with their own dependanc
   • The server for the UI found in /server
   • The joblist found in /jobs
 
-** Important **
+**Important**
 
 Both the toolchain and the server require dependancies listed in the respective package.json files. 
 These can be installed via:
