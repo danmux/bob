@@ -1,0 +1,1 @@
+(function(){dust.register("nojobs",body_0);function body_0(chk,ctx){return chk.write("<div class=\"hero-unit\"><div class=\"row-fluid pagination-centered\"><h2> No jobs to show, do some more work slackers!</h2></div></div>");}return body_0;})();

@@ -1,0 +1,33 @@
+{
+  "name": "BuildServer",
+  "version": "0.0.1",
+  "dependencies": {
+    "connect":"*",
+    "cookie":"*",
+    "cookie-signature":"*",
+    "connect-redis": "1.4.x",
+    "passport":"*",
+    "passport-github":"*",
+    "express": "3.x.x",
+    "jade":"*",
+    "redis":"*",
+    "requirejs":"*",
+    "dustjs-linkedin":"*",
+    "shortid":"*",
+    "gift":"*",
+    "underscore":"*",
+    "uglify-js2":"*",
+    "commander":"*",
+    "q":"*",
+    "less-middleware":"*",
+    "socket.io":"*"
+  },
+  "scripts": {
+    "start": "server.js"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm":  "1.1.x"
+  }
+}
+

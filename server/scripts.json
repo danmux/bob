@@ -1,0 +1,22 @@
+{
+    "scripts": [
+      "public/js/jquery.min.js",
+    	"public/js/socket.io.js",
+    	"public/js/underscore.js",
+      "public/js/bootstrap-dropdown.js",
+    	"public/js/backbone.js",
+      "public/js/collections.js",
+      "public/js/models.js",
+      "public/js/views.js",
+    	"public/js/dust.js",
+      "public/js/pendingjob.js",
+      "public/js/nojobs.js",
+      "public/js/completedjob.js",
+      "public/js/tests.js",
+      "public/js/index.js",
+      "public/js/clone.js",
+    	"public/js/main.js"],
+    "target": "public/js/main.min.js",
+    "jadedir":"views/scripts.jade"
+ 
+ }

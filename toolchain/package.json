@@ -1,0 +1,13 @@
+{
+  "name": "BuildToolChain",
+  "version": "0.0.1",
+  "dependencies": {
+    "requirejs":"*",
+    "gift":"*",
+    "underscore":"*",
+    "q":"*",
+    "less":"*",
+    "fakedb":"*"
+  }
+}
+

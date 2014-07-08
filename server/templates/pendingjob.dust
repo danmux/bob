@@ -1,0 +1,14 @@
+<a href="{url}">
+	<section class="row-fluid" id ="{id}">
+		<div class="row-fluid">
+			<div class="span10 offset1 job">
+				<div class="row-fluid">
+					<div class="span3"><h4>Pending...</h4></div>
+					<div class="span4"><h4>{message}</h4></div>
+					<div class="span3"><h4>{author}</h4></div>
+					<div class="span2"><h4>{id}</h4></div>
+				</div>	
+			</div>
+		</div>
+	</section>
+</a>

@@ -1,0 +1,1 @@
+(function(){dust.register("currentbuild",body_0);function body_0(chk,ctx){return chk.write("<div class=\"progress progress-striped active\"><div class=\"bar\" style=\"width: 100%;\"><h3 data-type=\"progress\">").reference(ctx.get("progress"),ctx,"h").write("</h3></div></div>");}return body_0;})();
